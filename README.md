@@ -5,9 +5,9 @@
 </tr>
 
 <tr>
-    <td style="border: none;" align="left" width="20%"><img alt="Portfolio"align="left" src="Icons/Techwriter.jpg"/>&nbsp;</td>
+    <td style="border: none;" align="left" width="20%"><img alt="Portfolio"align="left" src="Icons/TechWriter.jpg"/>&nbsp;</td>
     <td colspan="3"><p><a href="https://github.com/TechWriterLisa/Portfolio/"><br>
-    <b>My Portfolio</b><br><img alt="BusinessCard"align="left" src="Icons/BusinessCard.jpg"/></a></td>
+    <b>My Portfolio</b><br><img alt="BusinessCard"align="left" src="Icons/BusinessCard.png"/></a></td>
 </tr>
 
 <tr>
