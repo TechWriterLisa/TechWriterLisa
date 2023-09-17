@@ -1,7 +1,7 @@
 <table style= "background-color: transparent; border-color: transparent;">
 <tbody>
 <tr>
-<td colspan="4"><h3><br><em>Clicking in the table below will take you to the associated repo.</em><br><br></h3></td>
+<td colspan="4"><h3><br><em>Clicking in the table below will take you to the associated repo or website.</em><br><br></h3></td>
 </tr>
 
 <tr>
